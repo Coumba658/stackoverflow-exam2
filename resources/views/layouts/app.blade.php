@@ -42,7 +42,7 @@
 
         <footer class="bg-light-primary dark:bg-dark-primary dark:text-gray-500 text-center text-gray-600">
             <div class="border-gray-100 border-t mx-auto py-7 w-4/5">
-                &copy; Forum 2021. All rights reserved.
+                &copy; Stackoverflow@CS2. All rights reserved.
             </div>
         </footer>
         <v-flash-noti message="{{ session('flash') }}" />
